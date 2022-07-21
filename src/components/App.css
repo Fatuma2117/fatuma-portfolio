@@ -54,26 +54,5 @@ ul{
   transition: 0.3s;
 }
 
-@media screen and (max-width: 1040px) {
-  .nav-main{
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width:100%;
-    height: 100vh;
-    background:black;
-    position:absolute;
-    top: 0;
-    left: 0;
-    z-index: -3;
-  }
-  .nav-main li{
-    padding: 1rem 0;
-    font-size: 2rem;
-  }
-  .nav-main li a{
-    font-size: 2rem;
 
-  }
-  
-}
+
