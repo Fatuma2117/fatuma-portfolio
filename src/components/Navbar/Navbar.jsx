@@ -2,6 +2,7 @@ import "../Navbar/Navbar.css";
 
 import React from "react";
 import { Link } from "react-router-dom";
+import {FaBars} from "react-icons/fa"
 
 export const Navbar = () => {
   return (
@@ -23,6 +24,9 @@ export const Navbar = () => {
           <Link to="/contact">Contact</Link>
         </li>
       </ul>
+      <div className="hamburger">
+        <FaBars/>
+      </div>
     </div>
   );
 };
