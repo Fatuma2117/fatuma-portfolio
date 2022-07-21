@@ -13,7 +13,7 @@ export const Navbar = () => {
       <Link to="/">
         <h1>Portfolio</h1>
       </Link>
-      <ul className="nav-main">
+      <ul className={click ? "nav-main open": "nav-main"}>
         <li>
           <Link to="/">Home</Link>
         </li>
