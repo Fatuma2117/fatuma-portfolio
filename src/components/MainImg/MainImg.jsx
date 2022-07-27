@@ -1,14 +1,18 @@
-import "./MainImg.css"
+import "./MainImg.css";
 
-import React from 'react'
+import React, { Component } from "react";
 
-export const MainImg = () => {
-  return (
-    <div className="main-img">
+class MainImg extends Component {
+  render() {
+    return (
+      <div className="main-img">
         <div className="heading">
-            <h1> This is a heading</h1>
-            <p> This is text</p>
+          <h1>{this.props.heading}</h1>
+          <p>{this.props.text}</p>
         </div>
-    </div>
-  )
+      </div>
+    );
+  }
 }
+
+export default MainImg;
