@@ -46,3 +46,20 @@
     font-weight: 400;
     text-transform: uppercase;
 }
+.content .btn{
+ margin: 1rem 2rem;
+}
+
+@media screen and (max-width:640px){
+
+    .landing .content h1 {
+        font-size: 3rem;
+       
+    }
+    .landing .content p {
+        font-size: 1.4rem;
+       
+    }
+
+
+}
