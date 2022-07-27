@@ -10,7 +10,7 @@ export const Navbar = () => {
   const handleClick = () => setClick(!click);
   return (
     <div className="header">
-        <img className="logo" src="images/logo.png"/>
+        {/* <img className="logo" src="images/logo.png"/> */}
       <Link to="/">
         <h1 style={{marginLeft: 0}}>Portfolio.</h1>
       </Link>

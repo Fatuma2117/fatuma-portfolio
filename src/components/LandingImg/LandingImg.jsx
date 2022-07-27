@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const LandingImg = () => {
   return (
     <div className="landing">
-    <div className="mask">
+    <div className="Img">
       <img className="into-img"
       src={IntroImg} alt="IntroImg"/>
     </div>
