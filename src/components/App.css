@@ -35,7 +35,7 @@ ul{
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(128, 247, 124);
+  background: rgb(218, 243, 80);
   color:black;
   border:1px solid #fff;
   font-weight: 600;
@@ -44,8 +44,15 @@ ul{
 }
 
 .btn-clear{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
   background-color: transparent;
   color: #fff;
+  border:1px solid #fff;
+  font-weight: 600;
+  cursor: pointer
+
 }
 
 .btn:hover{

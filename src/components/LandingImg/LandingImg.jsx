@@ -14,7 +14,10 @@ const LandingImg = () => {
       <p> Hello, I'm Fatuma </p>
       <h1>Full Stack Developer.</h1>
       <div>
-        <Link></Link>
+        <Link to="/projects" 
+        className="btn"> Projects</Link>
+          <Link to="/contact" 
+        className="btn-clear">Contact</Link>
       </div>
     </div>
     </div>
