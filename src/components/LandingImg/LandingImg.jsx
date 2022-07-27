@@ -10,8 +10,8 @@ const LandingImg = () => {
       <img className="into-img"
       src={IntroImg} alt="IntroImg"/>
     </div>
-    <div className="context">
-      <p> Hello, I'm Fatuma </p>
+    <div className="content">
+      <p> Hello, I'm Fatuma Abdi, </p>
       <h1>Full Stack Developer.</h1>
       <div>
         <Link to="/projects" 
