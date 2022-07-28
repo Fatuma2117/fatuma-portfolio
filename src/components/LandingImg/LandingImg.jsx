@@ -11,7 +11,7 @@ const LandingImg = () => {
       src={IntroImg} alt="IntroImg"/>
     </div>
     <div className="content">
-      <p> Hello, I'm Fatuma Abdi, </p>
+      <p> Hello, I'm Fatuma Abdi </p>
       <h1>Full Stack Developer.</h1>
       <div>
         <Link to="/projects" 
