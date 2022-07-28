@@ -10,6 +10,7 @@
     grid-template-columns:  repeat(2,3fr);
     grid-gap: 10px;
     padding-bottom: 5rem;
+
 }
 
 .project-card{
