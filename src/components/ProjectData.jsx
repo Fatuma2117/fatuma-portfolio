@@ -17,3 +17,5 @@ const ProjectCardData = [
     source:"https://github.com/LRTDevs/LivingRoomTutors"
   }
 ];
+
+export default ProjectCardData;
