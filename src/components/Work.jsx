@@ -1,5 +1,5 @@
-import  "../WorkCard/WorkCard.css"
-import BBCover from "../images/BBCover.png"
+import  "./WorkCard/WorkCard.css"
+import BBCover from "./images/BBCover.png"
 import React from 'react'
 import WorkCard from "./WorkCard/WorkCard";
 import ProjectCardData from "./ProjectData";
