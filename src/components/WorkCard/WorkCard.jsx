@@ -17,7 +17,7 @@ const WorkCard = () => {
                     <p> This is BB details</p>
                     <div className="pro-btn">
                     <a className="btn" href="https://young-river-71141.herokuapp.com/" >View</a>
-                    <a className="btn" href="https://github.com/Fatuma2117/Book-Buddy" >Source</a>
+                    <a className="btn-clear" href="https://github.com/Fatuma2117/Book-Buddy" >Source</a>
                     </div>
                 </div>
             </div>
