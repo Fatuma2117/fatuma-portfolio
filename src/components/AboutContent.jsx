@@ -8,7 +8,7 @@ export const AboutContent = () => {
   return (
     <div className="about">
       <div className="left">
-        <h1>Who Am I?</h1>
+        <h1 className="heading ">Resume</h1>
         <h1>About Me</h1>
         <p>
           {" "}

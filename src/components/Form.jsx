@@ -5,7 +5,9 @@ import React from 'react'
 export const Form = () => {
   return (
     <div className="form">
+      
         <form>
+          <h1>Let's Chat!</h1>
             <label> Your Name</label>
             <input type="text"></input>
             <label>Email</label>
