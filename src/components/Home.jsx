@@ -4,6 +4,7 @@ import LandingImg from './LandingImg/LandingImg';
 import Footer from './Footer/Footer'
 import Work from './Work';
 import { AboutContent } from './AboutContent';
+import{ Form} from "./Form"
 
 const Home = () => {
   return (
@@ -12,7 +13,7 @@ const Home = () => {
       <LandingImg/>
       <AboutContent/>
       <Work/>
-    
+    <Form/>
       <Footer/>
       </div>
   )

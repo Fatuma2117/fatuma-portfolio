@@ -75,8 +75,7 @@ export const AboutContent = () => {
           London Study Abroad Program ● KenVia Non-Profit Kenyan Volunteer
           Program
         </p>
-        <h3>ScrumAlliance Certified ScrumMaster Certification
-December 2021</h3>
+        <h3>ScrumAlliance Certified ScrumMaster Certification December 2021</h3>
         <Link to="/contact">
           <button className="btn">Contact</button>
         </Link>
