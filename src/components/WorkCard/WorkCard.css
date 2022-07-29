@@ -5,6 +5,7 @@
 
 .project-container{
     max-width: 1140px;
+    
     margin:auto;
     display: grid;
     grid-template-columns:  repeat(2,3fr);
@@ -16,9 +17,12 @@
 .project-card{
     background: #1a1919;
     padding: 1.2rem 1rem;
+    height: auto;
+   
 }
 .project-card img{
     width: 100%;
+    margin: auto;
 }
 .title{
     color:white;
@@ -38,6 +42,7 @@
 
 .pro-btn .btn{
     padding:0.5rem 1rem ;
+       justify-content: space-between;
 }
 @media screen and (max-width: 740px) {
     .project-container{

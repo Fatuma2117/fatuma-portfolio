@@ -2,14 +2,14 @@ import React from 'react'
 import { Navbar } from './Navbar/Navbar';
 import LandingImg from './LandingImg/LandingImg';
 import Footer from './Footer/Footer'
-import WorkCard from './WorkCard/WorkCard';
+import Work from './Work';
 
 const Home = () => {
   return (
     <div>
       <Navbar/>
       <LandingImg/>
-      <WorkCard/>
+      <Work/>
       <Footer/>
       </div>
   )

@@ -39,7 +39,8 @@ ul{
   color:black;
   border:1px solid #fff;
   font-weight: 600;
-  cursor: pointer
+  cursor: pointer;
+  justify-content: space-between;
   
 }
 
