@@ -17,8 +17,8 @@ const LandingImg = () => {
         <Link to="/project" 
         className="btn"> 
         Projects</Link>
-          <Link to="/contact" 
-        className="btn-clear">Contact</Link>
+          <Link to="/about" 
+        className="btn-clear">About</Link>
       </div>
     </div>
     </div>

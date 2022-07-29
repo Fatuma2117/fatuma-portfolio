@@ -70,10 +70,13 @@ export const AboutContent = () => {
           presentation practice, and real-world client work.
         </p>
         <h3>University of Minnesota, Bachelors of Arts</h3>
-        <p>May 2018
-● Major - Business Management and Political Science
-● CAPA London Study Abroad Program
-● KenVia Non-Profit Kenyan Volunteer Program</p>
+        <p>
+          May 2018 ● Major - Business Management and Political Science ● CAPA
+          London Study Abroad Program ● KenVia Non-Profit Kenyan Volunteer
+          Program
+        </p>
+        <h3>ScrumAlliance Certified ScrumMaster Certification
+December 2021</h3>
         <Link to="/contact">
           <button className="btn">Contact</button>
         </Link>

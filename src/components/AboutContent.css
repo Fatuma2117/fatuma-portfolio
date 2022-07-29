@@ -6,6 +6,7 @@
     justify-content: center;
     flex-wrap: wrap;
     height: 100%;
+  
 }
 
 .about .left{
@@ -13,12 +14,15 @@
     margin: auto;
     padding: 1rem;
     max-width: 850px;
+    margin-top: 7rem;
 }
 .about .left p{
     margin: 1.2rem 0;
 }
 .about .right{
     max-width: 700px;
+
+
 }
 /* .right .img-container{
 display: grid;
@@ -36,6 +40,7 @@ text-align: center;
 } */
 
  .img-stack img {
-    border-radius: 70%;
-    height: 36vh;
+    border-radius: 50%;
+    height: 46vh;
+    margin-top: 0;
   }
