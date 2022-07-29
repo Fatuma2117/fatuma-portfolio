@@ -12,7 +12,7 @@
     text-align: center;
     margin: auto;
     padding: 1rem;
-    max-width: 350px;
+    max-width: 850px;
 }
 .about .left p{
     margin: 1.2rem 0;
@@ -20,15 +20,22 @@
 .about .right{
     max-width: 700px;
 }
-.right .img-container{
+/* .right .img-container{
 display: grid;
 grid-template-columns: repeat(12,1fr);
 position:relative;
 align-items: center;
 text-align: center;
+
 }
 
 .right .img{
     max-width: 90%;
     border: 1px solid #333;
-}
+  
+} */
+
+ .img-stack img {
+    border-radius: 70%;
+    height: 36vh;
+  }

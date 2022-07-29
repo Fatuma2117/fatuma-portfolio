@@ -4,6 +4,7 @@ import LRTDash from "./images/LRTDash.png";
 const ProjectCardData = [
   {
     imgsrc: BBCover,
+  
     title: "Book Buddy Tracker",
     text: "Book Buddy is a tool for kids to add current book, track completed books, rate overall experience and accrue reading points.",
     view: "https://young-river-71141.herokuapp.com/",

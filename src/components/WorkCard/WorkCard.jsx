@@ -8,7 +8,7 @@ const WorkCard = (props) => {
   return (
     <div className="project-container">
     <div className="project-card">
-        <img src={props.imgsrc} alt="image"/>
+        <img className="top" src={props.imgsrc} alt=""/>
         <h2 className="title">{props.title}</h2>
         <div className="details">
             <p> {props.text}</p>
@@ -23,4 +23,4 @@ const WorkCard = (props) => {
   )
 }
 
-export default WorkCard
+export default WorkCard;
