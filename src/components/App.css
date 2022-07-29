@@ -22,7 +22,7 @@ code {
   font-family: "Inconsolata", sans-serif;
 }
 body{
-  background: black;
+  background: rgba(0, 0, 0, 0.938);
 }
 h1, h4,p ,a{
   color:white;
