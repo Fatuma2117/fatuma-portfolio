@@ -4,13 +4,14 @@
 }
 
 .project-container{
-    max-width: 1140px;
+    max-width: 1200px;
     
     margin:auto;
     display: grid;
-    grid-template-columns:  repeat(2,3fr);
+    grid-template-columns:  ;
     grid-gap: 10px;
     padding-bottom: 5rem;
+  
 
 }
 
@@ -18,6 +19,7 @@
     background: #1a1919;
     padding: 1.2rem 1rem;
     height: auto;
+    border: 1px solid #eee;
    
 }
 .project-card img{
@@ -37,6 +39,7 @@
     display:flex;
     justify-content: space-between;
     padding: 0.5rem 0;
+    
 
 }
 
