@@ -39,14 +39,18 @@ const Footer = () => {
             <h4> About the company</h4>
             <p> New Projects and design challenges. </p>
             <div className="social">
-            <FaLinkedin
+              <a href="https://www.linkedin.com/in/fatumamabdi/"> 
+                
+                <FaLinkedin
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
-              />
+             
+              /></a>
+           <a href="https://github.com/Fatuma2117">
                  <FaGithub
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
-              />
+              /></a>
             </div>
         </div>
       </div>
